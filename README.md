@@ -7,4 +7,3 @@ To contact me, you can flick me a DM on Discord, email me with [cyberflameu@gmai
 
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://canary.discord.com/assets/41a9b15fbba0b2af005e.svg');]{x0000}$}
-```
