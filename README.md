@@ -7,4 +7,4 @@ To contact me, you can flick me a DM on Discord, email me with [cyberflameu@gmai
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://cdn.discordapp.com/emojis/1139485322560933968.png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/CyberFlameGO/CyberFlameGO/assets/24910512/3712dc9e-2668-43e5-98d5-34c0e611f694');]{x0000}$}
